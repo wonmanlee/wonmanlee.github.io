@@ -21,7 +21,7 @@ plugins:
 
 # Site settings
 url: 'https://wonmanlee.com'
-baseurl: 'wonmanlee.com'
+baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
