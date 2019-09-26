@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+url: 'https://wonmanlee.com'
+baseurl: 'wonmanlee.com'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://en.gravatar.com/userimage/34757508/432265933d754ca4cc0c4d454e51991e.png"
 
 # Pagination
 paginate: 5
@@ -53,4 +53,4 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://picsum.photos/id/389/2560/600"
