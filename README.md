@@ -1,13 +1,9 @@
-## Welcome
+# Starter kit for [Alembic](https://alembic.darn.es/)
 
-Hello, I'm a software developer currently based in Boston, MA.
+This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-kit/tree/remote-theme) (see `remote-theme` branch).
 
-Have a look through some of my projects and blog posts. Need help with an upcoming project or application? Learn a bit more about me and then consider hiring me.
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
 
-### Contact Info
+or
 
- - Email: [wonmanlee@gmail.com](mailto:wonmanlee@gmail.com)
- - Resume: [Resume](https://docs.google.com/document/d/1ttiCikODJv98AWlCjCsTRX64HStU7G4G4BKGEoKoz6k/edit?usp=sharing)
- - Github: [wonmanlee](https://github.com/wonmanlee)
- - Twitter: [@wonmanlee](https://twitter.com/wonmanlee)
- - LinkedIn: [wonmanlee](https://www.linkedin.com/in/wonmanlee/)
+**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
