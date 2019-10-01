@@ -1,9 +1,5 @@
 ---
-title: Welcome to my website
+title: Wonman Lee
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
 ---
-
-There isn't much going on here yet, but watch this space
+I found that searching for code snippets and explanations written in C# on CS fundamentals were difficult to locate. So I decided to try and write a blog post for each topic I encounter. 
