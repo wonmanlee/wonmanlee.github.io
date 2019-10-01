@@ -54,3 +54,10 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/id/389/2560/600"
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/wonmanlee
+  LinkedIn: https://www.linkedin.com/in/wonmanlee
+  GitHub: https://github.com/wonmanlee
+  link: https://wonmanlee.com
+  RSS: /feed.xml    
