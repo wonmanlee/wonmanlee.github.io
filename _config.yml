@@ -20,16 +20,30 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
+encoding: utf-8
+lang: en-US
 url: 'https://wonmanlee.com'
 baseurl: ''
 title: 'wonmanlee'
 description: 'Exploring the basics in C#'
 permalink: pretty
 logo: "https://en.gravatar.com/userimage/34757508/c17ed5710cb28e8e3ee7801113d11b06.png"
+disqus: "wonmanlee"
+email: "wonmanlee@gmail.com"
+google_analytics: "UA-149261153-1"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
+twitter: 
+  username: wonmanlee
+author: WonmanLee
+social: 
+  name: Wonman Lee
+  links: 
+    - https://twitter.com/wonmanlee
+    - https://www.linkedin.com/in/wonmanlee
+    - https://github.com/wonmanlee
 
 # Header nav
 navigation_header:
@@ -59,8 +73,3 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/wonmanlee
   link: https://bit.ly/wonmanlee
   RSS: /feed.xml    
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true  
